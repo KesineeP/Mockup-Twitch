@@ -1,38 +1,6 @@
 {
   "streams": [
     {
-      "title": "My Stream",
-      "description": "This is a great stream",
-      "id": 1
-    },
-    {
-      "title": "ssss",
-      "description": "sssddc",
-      "id": 2
-    },
-    {
-      "title": "dwdd",
-      "description": "vvfv",
-      "id": 3
-    },
-    {
-      "title": "dwdd",
-      "description": "vvfv",
-      "id": 4
-    },
-    {
-      "title": "I created this stream",
-      "description": "This made by me",
-      "userId": "109719752502364428742",
-      "id": 5
-    },
-    {
-      "title": "Unexpected Token",
-      "description": "Didn't expected that",
-      "userId": "109719752502364428742",
-      "id": 6
-    },
-    {
       "title": "hi",
       "description": "hiiii",
       "userId": "109719752502364428742",
@@ -43,6 +11,12 @@
       "description": "hiiii",
       "userId": "109719752502364428742",
       "id": 8
+    },
+    {
+      "title": "Create stream",
+      "description": "programatic navigation",
+      "userId": "109719752502364428742",
+      "id": 9
     }
   ]
 }
